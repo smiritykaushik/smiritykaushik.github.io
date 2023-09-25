@@ -17,10 +17,15 @@ I am currently a the third year Ph.D. candidate in the Information Sciences prog
 * Information Management Faculty Engagement Scholar (IMFES) merit fellowship (2017)
 
 # Updates:
-  * _Sep 2023_ Virtually attending Grace Hopper Conference, 2023
-  * _Aug 2023_ Finished 3-month summer internship at Max Planck Institute for Security and Privacy (MPI-SP) with Dr. Yixin Zou
-  * _Aug 2023_ Presenting two papers at the Nineteenth Symposium on Usable Privacy and Security (SOUPS 2023)
-  * _July 2023_ Attended my first PETS conference in person at Lausanne, Switzerland
-  * _May 2023_ Started summer research internship at Max Planck Institute for Security and Privacy (MPI-SP) with Dr. Yixin Zou
+<div style="height: 200px; overflow: auto;">
+  <ul>
+    <li> <i>Sep 2023</i> Virtually attending Grace Hopper Conference, 2023</li>
+    <li><i>Aug 2023</i> Finished 3-month summer internship at Max Planck Institute for Security and Privacy (MPI-SP) with Dr. Yixin Zou</li>
+    <li><i>Aug 2023</i> Presenting two papers at the Nineteenth Symposium on Usable Privacy and Security (SOUPS 2023)</li>
+    <li><i>July 2023</i> Attended my first PETS conference in person at Lausanne, Switzerland </li>
+    <li> <i>May 2023</i> Started summer research internship at Max Planck Institute for Security and Privacy (MPI-SP) with Dr. Yixin Zou</li>
+</div>
+
+  
 
 
