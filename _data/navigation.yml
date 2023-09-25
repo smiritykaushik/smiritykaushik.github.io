@@ -1,11 +1,10 @@
 # main links links
 main:
+  - title: "Publications"
+    url: https://scholar.google.com/citations?user=vtnA4pEAAAAJ&hl=en
   - title: "CV"
     url: /files/CV_SK.pdf
-
-  - title: "Publications"
-    url: https://scholar.google.com/citations?user=vtnA4pEAAAAJ&hl=en    
-
+  
   #- title: "Teaching"
   #  url: /teaching/    
     
