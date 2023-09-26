@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a the third year Ph.D. candidate in the Information Sciences program at UIUC, School of Information Sciences. I do interdisciplinary research in Usable Security and Privacy (USP) and Privacy Policies. I am particularly interested in exploring digital ad privacy and safety perceptions of vulnerable and understudied population groups. My CV is available [here](/files/CV_SK.pdf).
+I am currently a third year Ph.D. candidate in the Information Sciences program at UIUC, School of Information Sciences. I do interdisciplinary research in Usable Security and Privacy (USP) and Privacy Policies. I am particularly interested in exploring digital ad privacy and safety perceptions of vulnerable and understudied population groups. My CV is available [here](/files/CV_SK.pdf).
 
 ### Selected Honors and Awards
 * Google CS Research Mentorship Program Mentee (CSRMP 2021)
