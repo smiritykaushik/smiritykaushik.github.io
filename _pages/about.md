@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a third year Ph.D. candidate in the Information Sciences program at UIUC, School of Information Sciences. I do interdisciplinary research in Usable Security and Privacy (USP) and Privacy Policies. I am particularly interested in exploring digital ad privacy and safety perceptions of vulnerable and understudied population groups. My CV is available [here](/files/CV_SK.pdf).
+I am a 4th year Ph.D. candidate in the Information Sciences program at UIUC, School of Information Sciences. I do interdisciplinary research in Usable Security and Privacy (USP) and Privacy Policies. I am particularly interested in exploring digital ad privacy and safety perceptions of vulnerable and understudied population groups. My CV is available [here](/files/CV_SK.pdf).
 
 ### Selected Honors and Awards
 * Google CS Research Mentorship Program Mentee (CSRMP 2021)
@@ -19,6 +19,8 @@ I am currently a third year Ph.D. candidate in the Information Sciences program 
 ### Updates:
 <div style="height: 10em; overflow-y: scroll;">
   <ul>
+    <li> <i>Jan 2024</i> Re-visiting Max Planck Institute for Security and Privacy (MPI-SP) in Bochum to continue working with <a href="https://yixinzou.github.io">Dr. Yixin Zou</a> </li>
+    <li> <i>Dec 2023</i> Successfully defend dissertation proposal on <a href="https://uofi.app.box.com/s/8rjr86yfsm4zlb2rs9pi46dejgaz6qp8"> "Exploring online privacy, safety, and trust perceptions of at-risk users towards targeted and deceptive ads on social media platforms." </a></li>
     <li> <i>Sep 2023</i> Virtually attending <a href="https://ghc.anitab.org">Grace Hopper Conference, 2023</a></li>
     <li><i>Sep 2023</i> Received NSF PrivaCI Fellow grant award to attend <a href="https://privaci.info/symposium/2023/cfp.html">2023 PrivaCI Symposium</a> held at York University in Toronto</li>  
     <li><i>Aug 2023</i> Finished 3-month summer internship at Max Planck Institute for Security and Privacy (MPI-SP) with <a href="https://yixinzou.github.io">Dr. Yixin Zou</a></li>
