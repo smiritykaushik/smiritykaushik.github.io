@@ -8,7 +8,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 4th year Ph.D. candidate in the Information Sciences program at UIUC, School of Information Sciences. I do interdisciplinary research in Usable Security and Privacy (USP) and Privacy Policies. I am particularly interested in exploring digital ad privacy and safety perceptions of vulnerable and understudied population groups. My CV is available [here](/files/CV_SK.pdf).
+I am a 4th year Ph.D. candidate in the Information Sciences program at UIUC, School of Information Sciences. I have over five years of experience conducting interdisciplinary research in social computing, human-computer interaction (HCI), and usable privacy and security (USP), using both qualitative and quantitative methods. I am interested in societal dimension of research, particularly the benefits, impacts and implications of emerging information and communication technologies (ICTs) such as AI systems, for society. This may include factors such as trust, biases, privacy, reliability, and responsibility of emerging ICTs.
+My proposed dissertation work explores digital ad privacy and safety perceptions of vulnerable and understudied population groups. My CV is available [here](/files/CV_SK.pdf).
 
 ### Selected Honors and Awards
 * Google CS Research Mentorship Program Mentee (CSRMP 2021)
