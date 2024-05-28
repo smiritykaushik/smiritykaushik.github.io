@@ -29,7 +29,7 @@ A few directions of particular interest to me currently include:
 * Information Management Faculty Engagement Scholar (IMFES) merit fellowship (2017)
 
 ### Updates:
-<div style="height: 15em; overflow-y: scroll;">
+<div style="height: 10em; overflow-y: scroll;">
   <ul>
     <li> <i>May 2024</i> Attending ACM CHI 2024 conference to present late breaking work about cross-country percpetions of targeted ads on social media <a href="https://dl.acm.org/doi/10.1145/3613905.3650780">[Paper link]</a> </li>
     <li> <i>Apr 2024</i> Recieved President's Diversity Travel Assistance award to attend the ACM CHI 2024 conference </li>
