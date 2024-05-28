@@ -83,7 +83,9 @@ author:
   name             : "Smirity Kaushik"
   avatar           : "sk_profile.png"
   bio              : "PhD Candidate, CIPP/US"
-  location         : "UIUC https://ischool.illinois.edu/people/smirity-kaushik"
+  location         : "<a href='https://ischool.illinois.edu/people/smirity-kaushik'>UIUC</a>"
+  employer         :
+  googlescholar    : "https://scholar.google.com/citations?user=NAA4vIUAAAAJ&hl=en&authuser=1"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=NAA4vIUAAAAJ&hl=en&authuser=1"
   email            : 
