@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Navigating privacy landscapes: Bridging user understanding and regulatory compliance"
+excerpt: "Short description of portfolio item number 2"
 collection: portfolio
 ---
 
