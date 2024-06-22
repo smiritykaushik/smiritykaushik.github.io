@@ -1,7 +1,9 @@
 ---
 title: "Navigating privacy landscapes: Bridging user understanding and regulatory compliance"
-excerpt: "Short description of portfolio item number 2"
+excerpt: "Privacy landscape has evolved globally since 2018 when the Europeann Union-General Data Protection Regulation (EU-GDPR) came into force. However there remains a gap between high-level regulatory requirements and the ground-level implementation and adoption of privacy best pratices. Through this line of research, I explore consumers' understanding of their legal privacy rights, and industry's responses to the regulatory compliance."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+1. Analyzed consent management tools that offer privacy by design compliance under GDPR. Method: Policy review. [CHI'18](https://drive.google.com/file/d/1C5Y5Da7BUr6WDvX9u4RWLoJOerzQaOR5/view)
+
+2. Explored people’s (mis)understanding of explainable AI and related rights under GDPR. Method: Survey. IAPP Privacy Award, [SOUPS'21] (https://www.usenix.org/system/files/soups2021-kaushik.pdf)
