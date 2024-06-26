@@ -8,17 +8,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
- I am a fourth year PhD candidate in the School of Information Sciences, at the University of Illinois in Urbana Champaign in the US.  I am currently working as a research intern at the Max Planck Institute for Security and Privacy (MPI-SP) in Bochum, Germany, for the Spring and Summer semesters to work with <a href="https://yixinzou.github.io">Dr. Yixin Zou</a> .
+ I am a fourth year PhD candidate in the School of Information Sciences, at the University of Illinois in Urbana Champaign in the US, advised by <a  href="http://yangwang.ischool.illinois.edu/">Dr. Yang Wang </a> and <a href="https://madelynsanfilippo.com/">Dr. Madelyn Sanfilippo </a>. I am currently working as a research intern at the Max Planck Institute for Security and Privacy (MPI-SP) in Bochum, Germany, for the Spring and Summer semesters to work with <a href="https://yixinzou.github.io">Dr. Yixin Zou</a> .
 Broadly, I work in the field of social computing for emerging technologies. To unpack the term, my research lies at the intersection of HCI, user online privacy and safety, and tech policy around emerging technologies.
 I have an interdisciplinary background in law and technology, which informs my research work from both policy and social computing dimensions. Previously I worked as a Privacy Consultant at Ernst & Young (EY), focusing on developing, managing, and auditing privacy programs for tech sector clients in the silicon valley and greater seattle area. My CV is available [here](/files/CV_SK.pdf).
-
-### Research interest
-Using the research methods rooted in HCI, and tech policy, I am interested in answering the question: How can we ensure online trust and safety experiences are inclusive and equitable for all, particularly for vulnerable and understudied populations, when interacting with emerging technologies? 
-
-A few directions of particular interest to me currently include: 
-* Exploring cross-cultural online privacy perspectives of understudied regions such as South Asia versus Western regions
-* Investigating the landscape of frauds and scams on video-based social media platforms, including fraudulent GenAI content.
-* Exploring how young adults experience fraudulent GenAI content on video-based social media platforms, and evaluate the effectiveness of current platform policies in mitigating these harms.
 
 ### Selected Honors and Awards
 * President's Research Diversity Travel Assistance Award (2024)
