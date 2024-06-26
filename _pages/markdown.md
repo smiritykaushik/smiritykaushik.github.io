@@ -6,7 +6,6 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-# Research interest
 Using the research methods rooted in HCI, and tech policy, I am interested in answering the question: How can we ensure online trust and safety experiences are inclusive and equitable for all, particularly for vulnerable and understudied populations, when interacting with emerging technologies? 
 
 A few directions of particular interest to me currently include: 
