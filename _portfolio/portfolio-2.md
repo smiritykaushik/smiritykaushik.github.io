@@ -1,6 +1,6 @@
 ---
 title: "AI and Privacy Regulation"
-excerpt: "Privacy landscape has evolved globally since 2018 when the European Union-General Data Protection Regulation (EU-GDPR) came into force. However there remains a gap between high-level regulatory requirements and the ground-level implementation and adoption of privacy best pratices for emerging technologies such as AI. Through this line of research, I explore consumers' understanding of their legal privacy rights, and industry's response to AI."
+excerpt: "Privacy landscape has evolved globally since 2018 when the European Union-General Data Protection Regulation (EU-GDPR) came into force. However there remains a gap between high-level regulatory requirements and the ground-level implementation and adoption of privacy best pratices for emerging technologies such as AI. Through this line of research, I explore consumers' understanding of their legal privacy rights, and industry's response to AI an related regulation."
 collection: portfolio
 ---
 
