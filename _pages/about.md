@@ -8,8 +8,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+ Thank you for visiting my page. I hope you can find something interesting about my profile. I am always happy to connect and chat more :)  
+ 
  I am a fourth year PhD candidate in the School of Information Sciences, at the University of Illinois in Urbana Champaign in the US, advised by <a  href="http://yangwang.ischool.illinois.edu/">Dr. Yang Wang </a> and <a href="https://madelynsanfilippo.com/">Dr. Madelyn Sanfilippo </a>. I am currently working as a research intern at the Max Planck Institute for Security and Privacy (MPI-SP) in Bochum, Germany, for the Spring and Summer semesters to work with <a href="https://yixinzou.github.io">Dr. Yixin Zou</a> .
-Broadly, I work in the field of social computing for emerging technologies. To unpack the term, my research lies at the intersection of HCI, user online privacy and safety, and tech policy around emerging technologies.
+Broadly, I work in the field of social computing for emerging technologies. To unpack the term, my research lies at the intersection of HCI, user online privacy and safety, and tech policy around emerging technologies. Through my research, I am interested in answering the question: How can we ensure that peoples' online experiences are inclusive, safe and trustworthy, particularly for vulnerable and understudied populations, when interacting with emerging technologies? Read more about my research interests <a href="https://smiritykaushik.github.io/markdown/"> here</a>.
+
 I have an interdisciplinary background in law and technology, which informs my research work from both policy and social computing dimensions. Previously I worked as a Privacy Consultant at Ernst & Young (EY), focusing on developing, managing, and auditing privacy programs for tech sector clients in the silicon valley and greater seattle area. My CV is available [here](/files/CV_SK.pdf).
 
 ### Selected Honors and Awards
