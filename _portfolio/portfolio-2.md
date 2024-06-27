@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 1. Copyright and Artificial Intelligence (AI): Comments submitted to The US Copyright Office via the notice of inquiry. [Link](https://www.ideals.illinois.edu/items/128265) 
-2. Explored people’s (mis)understanding of explainable AI and related rights under GDPR. Method: Survey. IAPP Privacy Award, [SOUPS'21](https://www.usenix.org/system/files/soups2021-kaushik.pdf)
+2. Explored people’s (mis)understanding of explainable AI and related rights under GDPR in US v. EU. Method: Survey. IAPP Privacy Award, [SOUPS'21](https://www.usenix.org/system/files/soups2021-kaushik.pdf)
 3. Analyzed consent management tools that offer privacy by design compliance under GDPR. Method: Policy review. [CHI'18](https://drive.google.com/file/d/1C5Y5Da7BUr6WDvX9u4RWLoJOerzQaOR5/view)
 
 
