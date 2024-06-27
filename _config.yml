@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Smirity Kaushik (CIPP/US)"
+title                    : "Smirity Kaushik (she/her)"
 title_separator          : "-"
-name                     : &name "Smirity Kaushik (she/her)"
+name                     : &name "Smirity Kaushik"
 description              : &description "personal description"
 url                      : https://smiritykaushik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
