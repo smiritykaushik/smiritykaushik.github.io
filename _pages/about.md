@@ -28,7 +28,7 @@ I am <a href="https://iapp.org/l/cippus-study-guide-request-google/?gad_source=1
   <ul>
     <li> <i>May 2024</i> Attending ACM CHI 2024 conference to present late breaking work about cross-country percpetions of targeted ads on social media <a href="https://dl.acm.org/doi/10.1145/3613905.3650780">[Paper link]</a> </li>
     <li> <i>Apr 2024</i> Recieved President's Diversity Travel Assistance award to attend the ACM CHI 2024 conference </li>
-    <li> <i>Apr 2024</i> Recieved Gary Marsden Trvael award to attend the ACM CHI 2024 conference </li>
+    <li> <i>Apr 2024</i> Recieved Gary Marsden Travel award to attend the ACM CHI 2024 conference </li>
     <li> <i>Jan 2024</i> Re-visiting Max Planck Institute for Security and Privacy (MPI-SP) in Bochum to continue working with <a href="https://yixinzou.github.io">Dr. Yixin Zou</a> </li>
     <li> <i>Dec 2023</i> Successfully defend dissertation proposal on <a href="https://uofi.app.box.com/s/8rjr86yfsm4zlb2rs9pi46dejgaz6qp8"> "Exploring online privacy, safety, and trust perceptions of at-risk users towards targeted and deceptive ads on social media platforms." </a></li>
     <li> <i>Sep 2023</i> Virtually attending <a href="https://ghc.anitab.org">Grace Hopper Conference, 2023</a></li>
