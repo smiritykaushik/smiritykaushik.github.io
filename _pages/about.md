@@ -26,7 +26,7 @@ I am <a href="https://iapp.org/l/cippus-study-guide-request-google/?gad_source=1
 ### Updates:
 <div style="height: 10em; overflow-y: scroll;">
   <ul>
-    <li> <i>July 2024</i> I am attending <a href="https://cispa.de/summer-school-usable">CISPA Summer School 2024 for Usable Security and Privacy</a> and also presenintg my work on online trust and safety for under-represented populations </li>
+    <li> <i>July 2024</i> I am attending <a href="https://cispa.de/summer-school-usable">CISPA Summer School 2024 for Usable Security and Privacy</a> and also presenting my work on online trust and safety for under-represented populations </li>
     <li> <i>July 2024</i> I was invited by the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7212005685117513730/">Law & Tech Lab at Maastricht University</a>, for a talk about my work on online trust and safety for at-risk and under-represented populations</li>
     <li> <i>May 2024</i> Attending ACM CHI 2024 conference to present late breaking work about cross-country percpetions of targeted ads on social media <a href="https://dl.acm.org/doi/10.1145/3613905.3650780">[Paper link]</a> </li>
     <li> <i>Apr 2024</i> Recieved President's Diversity Travel Assistance award to attend the ACM CHI 2024 conference </li>
