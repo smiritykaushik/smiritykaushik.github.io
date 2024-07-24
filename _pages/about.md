@@ -11,7 +11,7 @@ redirect_from:
  Thank you for visiting my page. If you find my work interesting, feel free to reach out. I am always happy to connect and chat more :)  
  
  I am a fourth year PhD candidate in the School of Information Sciences, at the University of Illinois in Urbana Champaign in the US, advised by <a  href="http://yangwang.ischool.illinois.edu/">Dr. Yang Wang </a> and <a href="https://madelynsanfilippo.com/">Dr. Madelyn Sanfilippo</a>. I am currently working as a research intern at the Max Planck Institute for Security and Privacy (MPI-SP) in Bochum, Germany, for the Spring and Summer semesters with <a href="https://yixinzou.github.io">Dr. Yixin Zou</a>.
-Broadly, I work in the field of social computing for emerging technologies. To unpack the term, my research lies at the intersection of HCI, user online privacy and safety, and tech policy around emerging technologies. Through my research, I am interested in answering the question: How can we ensure that people's online experiences with emerging technologies are inclusive, safe and trustworthy, particularly for vulnerable and understudied populations? Read more about my research interests <a href="https://smiritykaushik.github.io/markdown/"> here</a>.
+Broadly, I work in the field of social computing for emerging technologies. To unpack the term, my research lies at the intersection of HCI, user online privacy and safety, and tech policy around emerging technologies. Through my research, I am interested in answering the question: How can we ensure that people's online experiences with emerging technologies are inclusive, safe and trustworthy, particularly for at-risk and under-represented populations? Read more about my research interests <a href="https://smiritykaushik.github.io/markdown/"> here</a>.
 
 I am <a href="https://iapp.org/l/cippus-study-guide-request-google/?gad_source=1&gclid=CjwKCAjwm_SzBhAsEiwAXE2Cv2mm2stbA7AmGfj3JZMNU5QvLp9L7K_I0-nrMQYvopH8rWNDZqHdRhoCv5sQAvD_BwE">CIPP/US</a> certified, with an interdisciplinary background in law and technology, which informs my research work from both policy and social computing dimensions. Previously I worked as a Privacy Consultant at Ernst & Young (EY), focusing on developing, managing, and auditing privacy programs for tech sector clients in the silicon valley and greater seattle area. My CV is available [here](/files/CV_SK.pdf).
 
@@ -26,6 +26,8 @@ I am <a href="https://iapp.org/l/cippus-study-guide-request-google/?gad_source=1
 ### Updates:
 <div style="height: 10em; overflow-y: scroll;">
   <ul>
+    <li> <i>July 2024</i> I am attending <a href="https://cispa.de/summer-school-usable">[CISPA Summer School 2024 for Usable Security and Privacy]</a> and also presenintg my work on online trust and safety for under-represented populations </li>
+    <li> <i>July 2024</i> I was invited by the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7212005685117513730/">[Law & Tech Lab at Maastricht University]</a>, for a talk about my work on online trust and safety for at-risk and under-represented populations</li>
     <li> <i>May 2024</i> Attending ACM CHI 2024 conference to present late breaking work about cross-country percpetions of targeted ads on social media <a href="https://dl.acm.org/doi/10.1145/3613905.3650780">[Paper link]</a> </li>
     <li> <i>Apr 2024</i> Recieved President's Diversity Travel Assistance award to attend the ACM CHI 2024 conference </li>
     <li> <i>Apr 2024</i> Recieved Gary Marsden Travel award to attend the ACM CHI 2024 conference </li>

@@ -1,6 +1,6 @@
 ---
-title: "Inclusive privacy for vulnerable and understudied users"
-excerpt: "While many in the HCI and security & privacy community strive to improve user experiences online, there's one notable gap: much of the research focuses on an ‘average user’ from western population, which often overlooks the needs of vulnerable and understudied user groups such as individuals with visual impairments, adolescents, and those from underrepresented regions. To address this gap, I study the privacy perceptions and behaviors of vulnerable and understudied users to make their online experience inclusive, safe, and trustworthy."
+title: "Inclusive privacy for at-risk and under-represented users"
+excerpt: "While many in the HCI and security & privacy community strive to improve user experiences online, there's one notable gap: much of the research focuses on an ‘average user’ from western population, which often overlooks the needs of at-risk and under-represented user groups such as individuals with visual impairments, adolescents, and those from underrepresented regions. To address this gap, I study the privacy perceptions and behaviors of at-risk and under-represented users to make their online experience inclusive, safe, and trustworthy."
 collection: portfolio
 ---
 A. Understudied population: South Asia
