@@ -16,16 +16,21 @@ Broadly, I work in the field of social computing for emerging technologies. To u
 I am <a href="https://iapp.org/l/cippus-study-guide-request-google/?gad_source=1&gclid=CjwKCAjwm_SzBhAsEiwAXE2Cv2mm2stbA7AmGfj3JZMNU5QvLp9L7K_I0-nrMQYvopH8rWNDZqHdRhoCv5sQAvD_BwE">CIPP/US</a> certified, with an interdisciplinary background in law and technology, which informs my research work from both policy and social computing dimensions. Previously I worked as a Privacy Consultant at Ernst & Young (EY), focusing on developing, managing, and auditing privacy programs for tech sector clients in the silicon valley and greater seattle area. My CV is available [here](/files/CV_SK.pdf).
 
 ### Selected Honors and Awards
+* National Science Foundation (NSF) Student Grant Award (2024)
+* Travel Award, CISPA Summer School for Usable Security (2024)
+* Gary Marsden Travel Award (2024)
 * President's Research Diversity Travel Assistance Award (2024)
 * Meta Research Award on Global South Citizens’ Privacy Perceptions (2021)
 * Google CS Research Mentorship Program Mentee (CSRMP 2021)
-* IAPP Privacy Award (2021, 2019) 
+* IAPP Best Privacy Paper Award (2021, 2019) 
 * John R. Weitzel Memorial Award Scholar 2019 for Information Systems Research
 * Information Management Faculty Engagement Scholar (IMFES) merit fellowship (2017)
 
 ### Updates:
 <div style="height: 10em; overflow-y: scroll;">
   <ul>
+    <li> <i>Aug 2024</i> I will be presenting my latest paper on GenAI and fraudulent ads at <a href="https://privaci.info/symposium/2024/cfp.html#:~:text=The%206th%20Annual%20Symposium%20on%20Applications%20of%20Contextual%20Integrity%2C%20September,Jersey%2C%20US%2C%20Rutgers%20University.">6th Annual Symposium on Applications of Contextual Integrity (PrivaCI)</a>. Come say hi! :) </li>
+    <li> <i>Aug 2024</i> Aawarded National Science Foundation (NSF) Student Grant to attend <a href="https://privaci.info/symposium/2024/cfp.html#:~:text=The%206th%20Annual%20Symposium%20on%20Applications%20of%20Contextual%20Integrity%2C%20September,Jersey%2C%20US%2C%20Rutgers%20University.">6th Annual Symposium on Applications of Contextual Integrity (PrivaCI)</a></li>
     <li> <i>July 2024</i> I am attending <a href="https://cispa.de/summer-school-usable">CISPA Summer School 2024 for Usable Security and Privacy</a> and also presenting my work on online trust and safety for under-represented populations </li>
     <li> <i>July 2024</i> I was invited by the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7212005685117513730/">Law & Tech Lab at Maastricht University</a>, for a talk about my work on online trust and safety for at-risk and under-represented populations</li>
     <li> <i>May 2024</i> Attending ACM CHI 2024 conference to present late breaking work about cross-country percpetions of targeted ads on social media <a href="https://dl.acm.org/doi/10.1145/3613905.3650780">[Paper link]</a> </li>
