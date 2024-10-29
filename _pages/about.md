@@ -10,12 +10,13 @@ redirect_from:
 ---
  Thank you for visiting my page. If you find my work interesting, feel free to reach out. I am always happy to connect and chat more :)  
  
- I am a fourth year PhD candidate in the School of Information Sciences, at the University of Illinois in Urbana Champaign in the US, advised by <a  href="http://yangwang.ischool.illinois.edu/">Dr. Yang Wang </a> and <a href="https://madelynsanfilippo.com/">Dr. Madelyn Sanfilippo</a>. I am currently working as a research intern at the Max Planck Institute for Security and Privacy (MPI-SP) in Bochum, Germany, for the Spring and Summer semesters with <a href="https://yixinzou.github.io">Dr. Yixin Zou</a>.
+ I am a fifth year PhD candidate (ABD) in the School of Information Sciences, at the University of Illinois Urbana Champaign, advised by <a  href="http://yangwang.ischool.illinois.edu/">Dr. Yang Wang </a> and <a href="https://madelynsanfilippo.com/">Dr. Madelyn Sanfilippo</a>. Previosuly I had a wonderful opportunity to work as a research intern at the Max Planck Institute for Security and Privacy (MPI-SP) in Bochum, Germany, for the Spring and Summer 2024, and Summer 2023 with <a href="https://yixinzou.github.io">Dr. Yixin Zou</a>.
 Broadly, I work in the field of social computing for emerging technologies. To unpack the term, my research lies at the intersection of HCI, user online privacy and safety, accessible computing, and tech policy around emerging technologies. Through my research, I am interested in answering the question: How can we ensure that people's online experiences with emerging technologies are inclusive, safe and trustworthy, particularly for at-risk and under-represented populations? Read more about my research interests <a href="https://smiritykaushik.github.io/markdown/"> here</a>.
 
 I am <a href="https://iapp.org/l/cippus-study-guide-request-google/?gad_source=1&gclid=CjwKCAjwm_SzBhAsEiwAXE2Cv2mm2stbA7AmGfj3JZMNU5QvLp9L7K_I0-nrMQYvopH8rWNDZqHdRhoCv5sQAvD_BwE">CIPP/US</a> certified, with an interdisciplinary background in law and technology, which informs my research work from both policy and social computing dimensions. Previously I worked as a Privacy Consultant at Ernst & Young (EY), focusing on developing, managing, and auditing privacy programs for tech sector clients in the silicon valley and greater seattle area. My CV is available [here](/files/CV_SK.pdf).
 
 ### Selected Honors and Awards
+* Google Academic Research Award on Trust and Safety (2024)
 * National Science Foundation (NSF) Student Grant Award (2024)
 * Travel Award, CISPA Summer School for Usable Security (2024)
 * Gary Marsden Travel Award (2024)
@@ -29,6 +30,7 @@ I am <a href="https://iapp.org/l/cippus-study-guide-request-google/?gad_source=1
 ### Updates:
 <div style="height: 10em; overflow-y: scroll;">
   <ul>
+     <li> <i>Oct 2024</i> We received a Google Academic Research Award on "Safeguarding Emerging Adults from Scams on Short-Form Video Platforms"! This is a joint proposal with Yixin Zou at MPI-SP and Mainack Mondal at IIT Kharagpur. Very excited to work on this passion project :) </li>
     <li> <i>Aug 2024</i> I will be presenting my latest paper on GenAI and fraudulent ads at <a href="https://privaci.info/symposium/2024/cfp.html#:~:text=The%206th%20Annual%20Symposium%20on%20Applications%20of%20Contextual%20Integrity%2C%20September,Jersey%2C%20US%2C%20Rutgers%20University.">6th Annual Symposium on Applications of Contextual Integrity (PrivaCI)</a>. Come say hi! :) </li>
     <li> <i>Aug 2024</i> Aawarded National Science Foundation (NSF) Student Grant to attend <a href="https://privaci.info/symposium/2024/cfp.html#:~:text=The%206th%20Annual%20Symposium%20on%20Applications%20of%20Contextual%20Integrity%2C%20September,Jersey%2C%20US%2C%20Rutgers%20University.">6th Annual Symposium on Applications of Contextual Integrity (PrivaCI)</a></li>
     <li> <i>July 2024</i> I am attending <a href="https://cispa.de/summer-school-usable">CISPA Summer School 2024 for Usable Security and Privacy</a> and also presenting my work on online trust and safety for under-represented populations </li>
