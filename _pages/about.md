@@ -8,7 +8,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
- Thank you for visiting my page. If you find my work interesting, feel free to reach out. I am always happy to connect and chat more :)  
+ Thank you for visiting my page. If you find my work interesting, feel free to reach out. I am always happy to connect and chat more :) 
+
+ <b>I am on the job market (2024-25) seeking research-oriented roles in computer science, information science, or related fields.</b>
  
  I am a fifth year PhD candidate (ABD) in the School of Information Sciences, at the University of Illinois Urbana Champaign, advised by <a  href="http://yangwang.ischool.illinois.edu/">Dr. Yang Wang </a> and <a href="https://madelynsanfilippo.com/">Dr. Madelyn Sanfilippo</a>. I also work closely with <a href="https://yixinzou.github.io">Dr. Yixin Zou</a> at the Max Planck Institute for Security and Privacy (MPI-SP) in Bochum, Germany. Previously, I had a wonderful opportunity to work as a research intern at the MPI-SP, for the Spring and Summer 2024, and Summer 2023.
 Broadly, I work in the field of social computing for emerging technologies. To unpack the term, my research lies at the intersection of HCI, user online privacy and safety, accessible computing, and tech policy around emerging technologies. Through my research, I am interested in answering the question: How can we ensure that people's online experiences with emerging technologies are inclusive, safe and trustworthy? Read more about my research interests <a href="https://smiritykaushik.github.io/markdown/"> here</a>.
