@@ -12,25 +12,27 @@ redirect_from:
 
 <b>I am graduating this summer and on the job market seeking research-oriented roles in computer science, information science, tech policy or related fields.</b> 
  
- I am a fifth year PhD candidate (ABD) in the School of Information Sciences, at the University of Illinois Urbana Champaign, advised by <a  href="http://yangwang.ischool.illinois.edu/">Dr. Yang Wang </a> and <a href="https://madelynsanfilippo.com/">Dr. Madelyn Sanfilippo</a>. I also work closely with <a href="https://yixinzou.github.io">Dr. Yixin Zou</a> at the Max Planck Institute for Security and Privacy (MPI-SP) in Bochum, Germany. Previously, I had a wonderful opportunity to work as a research intern at the MPI-SP, for the Spring and Summer 2024, and Summer 2023.
-Broadly, I work in the field of social computing for emerging technologies. To unpack the term, my research lies at the intersection of HCI, user online privacy and safety, accessible computing, and tech policy around emerging technologies. Through my research, I am interested in answering the question: How can we ensure that people's online experiences with emerging technologies are inclusive, safe and trustworthy? Read more about my research interests <a href="https://smiritykaushik.github.io/markdown/"> here</a>.
+ I am a fifth year PhD candidate (ABD) in the School of Information Sciences, at the University of Illinois Urbana Champaign, advised by <a  href="http://yangwang.ischool.illinois.edu/">Dr. Yang Wang </a> and <a href="https://madelynsanfilippo.com/">Dr. Madelyn Sanfilippo</a>. I also work closely with <a href="https://yixinzou.github.io">Dr. Yixin Zou</a> at the Max Planck Institute for Security and Privacy (MPI-SP) in Bochum, Germany. Previously, I had a wonderful opportunity to work as a research intern at the MPI-SP, for the Spring and Summer 2024, and Summer 2023. My research lies at the intersection of human-computer interaction, user privacy and security, and tech policy.  I use both qualitative and quantitative
+methods to answer the question: <i>How can we ensure that people’s experiences with emerging technologies are safe, trustworthy, and empowering?</i> I have worked in five broad areas of research: 
+
+* Digital Trust and Safety
+* AI Governance
+* Privacy and Security for Majority World
+* Accessibility Computing (Privacy and Security) 
+* Internet of Things (IoT) Privacy and Governance
+
+Read more about my research interests <a href="https://smiritykaushik.github.io/markdown/"> here</a>.
 
 I am <a href="https://iapp.org/l/cippus-study-guide-request-google/?gad_source=1&gclid=CjwKCAjwm_SzBhAsEiwAXE2Cv2mm2stbA7AmGfj3JZMNU5QvLp9L7K_I0-nrMQYvopH8rWNDZqHdRhoCv5sQAvD_BwE">CIPP/US</a> certified, with an interdisciplinary background in law and technology, which informs my research work from both policy and social computing dimensions. Previously I worked as a Privacy Consultant at Ernst & Young (EY), focusing on developing, managing, and auditing privacy programs for tech sector clients in the silicon valley and greater seattle area. My CV is available [here](/files/CV_SK.pdf).
 
 ### Selected Honors and Awards
 * Google Academic Research Award on Trust and Safety (2024)
-* National Science Foundation (NSF) Student Grant Award (2024)
-* Travel Award, CISPA Summer School for Usable Security (2024)
-* Gary Marsden Travel Award (2024)
-* President's Research Diversity Travel Assistance Award (2024)
 * Meta Research Award on Global South Citizens’ Privacy Perceptions (2021)
-* Google CS Research Mentorship Program Mentee (CSRMP 2021)
 * IAPP Best Privacy Paper Award (2021, 2019) 
 * John R. Weitzel Memorial Award Scholar 2019 for Information Systems Research
-* Information Management Faculty Engagement Scholar (IMFES) merit fellowship (2017)
 
 ### Updates:
-<div style="height: 10em; overflow-y: scroll;">
+<div style="height: 12em; overflow-y: scroll;">
   <ul>
      <li> <i>Oct 2024</i> We received a Google Academic Research Award on "Safeguarding Emerging Adults from Scams on Short-Form Video Platforms"! This is a joint proposal with Yixin Zou at MPI-SP and Mainack Mondal at IIT Kharagpur. Very excited to work on this passion project :) </li>
     <li> <i>Aug 2024</i> I will be presenting my latest paper on GenAI and fraudulent ads at <a href="https://privaci.info/symposium/2024/cfp.html#:~:text=The%206th%20Annual%20Symposium%20on%20Applications%20of%20Contextual%20Integrity%2C%20September,Jersey%2C%20US%2C%20Rutgers%20University.">6th Annual Symposium on Applications of Contextual Integrity (PrivaCI)</a>. Come say hi! :) </li>
