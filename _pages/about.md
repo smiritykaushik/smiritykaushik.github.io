@@ -10,16 +10,17 @@ redirect_from:
 ---
  Thank you for visiting my page. If you find my work interesting, feel free to reach out. I am always happy to connect and chat more :) 
 
-<b>I am graduating this summer and on the job market seeking research-oriented roles in computer science, information science, tech policy or related fields.</b> 
+<b>I am a postdoctoral research associate at the George Washington University, Dept. of Computer Science. I am very fortunate to work with Dr. Adam Aviv and the amazing lab members in the GW-Usable Security and Privacy <a  href="https://gwusec.seas.gwu.edu">(GWUSEC) lab</a>. </b> 
  
- I am a fifth year PhD candidate (ABD) in the School of Information Sciences, at the University of Illinois Urbana Champaign, advised by <a  href="http://yangwang.ischool.illinois.edu/">Dr. Yang Wang </a> and <a href="https://madelynsanfilippo.com/">Dr. Madelyn Sanfilippo</a>. I also work closely with <a href="https://yixinzou.github.io">Dr. Yixin Zou</a> at the Max Planck Institute for Security and Privacy (MPI-SP) in Bochum, Germany. Previously, I had a wonderful opportunity to work as a research intern at the MPI-SP, for the Spring and Summer 2024, and Summer 2023. My research lies at the intersection of human-computer interaction, user privacy and security, and tech policy.  I use both qualitative and quantitative
-methods to answer the question: <i>How can we ensure that people’s experiences with emerging technologies are safe, trustworthy, and empowering?</i> I have worked in five broad areas of research: 
+ I graduated with a Ph.D. in Information Sciences in August 2025 from the School of Information Sciences, at the University of Illinois Urbana Champaign, advised by <a  href="http://yangwang.ischool.illinois.edu/">Dr. Yang Wang </a> and <a href="https://madelynsanfilippo.com/">Dr. Madelyn Sanfilippo</a>. During this time I also worked closely with <a href="https://yixinzou.github.io">Dr. Yixin Zou</a> at the Max Planck Institute for Security and Privacy (MPI-SP) in Bochum, Germany. Previously, I had a wonderful opportunity to work as a research intern at the MPI-SP, for the Spring and Summer 2024, and Summer 2023. My research lies at the intersection of human-computer interaction, user privacy and security, and tech policy. I use both qualitative and quantitative
+methods to answer the question: <i>How can we ensure that people’s experiences with emerging technologies are safe, trustworthy, and empowering?</i> I am interested in multiple research topics in human-centered security and privacy: 
 
-* Digital Trust and Safety
-* AI Governance
-* Privacy and Security for Majority World
+* Global Perspectives of AI
 * Accessibility Computing (Privacy and Security) 
-* Internet of Things (IoT) Privacy and Governance
+* Technology and Sociocultural norms
+* Online Safety and Scams
+* Privacy and Security for Majority World
+
 
 Read more about my research interests <a href="https://smiritykaushik.github.io/markdown/"> here</a>.
 
