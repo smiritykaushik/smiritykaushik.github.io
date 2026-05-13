@@ -34,8 +34,10 @@ I am <a href="https://iapp.org/l/cippus-study-guide-request-google/?gad_source=1
 ### Updates:
 <div style="height: 12em; overflow-y: scroll;">
   <ul>
-    <li> <i>Feb 2025</i> I gave a talks at the HCI Seminar at the Johns Hopkins Dept. of Computer Science about Trust and Safety in Social Media.</li>
-    <li> <i>Feb 2025</i> I became an affiliate member of <a href="https://www.trails.umd.edu">Trustworthy AI in Law & Society (TRAILS)</a> Institute.</li>
+    <li> <i>May 2026</i> I gave a talk at the <a href="https://cactus-colloquium.github.io">CACTUS/P Colloquium</a> about Representational and Social Bias in Text to Image models: a Global Perspective.</li>
+    <li> <i>Mar 2026</i> I gave a talk in AIT-690: Usable Privacy in the Digital Age class at the George Mason University - Department of Information Sciences and Technology about Privacy and Safety in Social Media: A Global Perspective.</li>
+    <li> <i>Feb 2026</i> I gave a talk at the HCI Seminar at the Johns Hopkins Dept. of Computer Science about Trust and Safety in Social Media.</li>
+    <li> <i>Feb 2026</i> I became an affiliate member of <a href="https://www.trails.umd.edu">Trustworthy AI in Law & Society (TRAILS)</a> Institute.</li>
     <li> <i>Dec 2025</i> I attended <a href="https://cactus-colloquium.github.io">CACTUS/P Colloquium</a>, a regional event for Capital area to discuss usable security and privacy research, and gave a talk about Characterizing User-Reported TikTok Scams</li>
     <li> <i>Oct 2025</i> I attended the NYC Privacy Day at Cornell Tech and gave a joint lecture with Dr. Collins Munyendo about Majority World Security and Privacy at the Barnard College.</li>
     <li> <i>Sep 2025</i> I was awarded the second-best speaker award and received cash privaze for the GW University-wise Postdoc Lightning Talk. </li>
