@@ -20,9 +20,6 @@ methods to answer the question: <i>How can we ensure that people’s experiences
 * Accessibility Computing (Privacy and Security) 
 
 
-
-Read more about my research interests <a href="https://smiritykaushik.github.io/markdown/"> here</a>.
-
 I am <a href="https://iapp.org/l/cippus-study-guide-request-google/?gad_source=1&gclid=CjwKCAjwm_SzBhAsEiwAXE2Cv2mm2stbA7AmGfj3JZMNU5QvLp9L7K_I0-nrMQYvopH8rWNDZqHdRhoCv5sQAvD_BwE">CIPP/US</a> certified, with an interdisciplinary background in law and technology. Previously I worked as a Privacy Consultant at Ernst & Young (EY), focusing on developing, managing, and auditing privacy programs for tech sector clients in the silicon valley and greater seattle area. My CV is available [here](/files/CV_SK.pdf).
 
 ### Selected Honors and Awards
@@ -34,6 +31,7 @@ I am <a href="https://iapp.org/l/cippus-study-guide-request-google/?gad_source=1
 ### Updates:
 <div style="height: 12em; overflow-y: scroll;">
   <ul>
+    <li> <i>June 2026</i> One paper accepted at SOUPS 2026. We identify user-reported instances of scams on TikTok and user mitigation strategies.</li>
     <li> <i>May 2026</i> I gave a talk at the <a href="https://cactus-colloquium.github.io">CACTUS/P Colloquium</a> about Representational and Social Bias in Text to Image models: a Global Perspective.</li>
     <li> <i>Mar 2026</i> I gave a talk in AIT-690: Usable Privacy in the Digital Age class at the George Mason University - Department of Information Sciences and Technology about Privacy and Safety in Social Media: A Global Perspective.</li>
     <li> <i>Feb 2026</i> I gave a talk at the HCI Seminar at the Johns Hopkins Dept. of Computer Science about Trust and Safety in Social Media.</li>

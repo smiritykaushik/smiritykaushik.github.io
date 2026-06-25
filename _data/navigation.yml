@@ -8,8 +8,8 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
 
-  - title: "Selected Projects"
-    url: /portfolio/
+  #- title: "Selected Projects"
+  #  url: /portfolio/
         
   # - title: "Blog Posts"
   #  url: /year-archive/
@@ -17,5 +17,5 @@ main:
   #- title: "CV"
   #  url: /cv/
     
-  - title: "Research Interests"
-    url: /markdown/
+  #- title: "Research Interests"
+ #   url: /markdown/
